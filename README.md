@@ -1,2 +1,2 @@
 # Echo 
-Is an AI bot that work like alexa  using python
+Is an AI Voice recognizer and identification using python
