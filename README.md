@@ -1,2 +1,2 @@
 # Echo 
-Is an AI Voice recognizer and identification using python
+Is an AI assistant ...
